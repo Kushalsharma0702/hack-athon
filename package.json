@@ -1,5 +1,5 @@
 {
-  "homepage": "https://limbo-hacks.github.io/Hackathon-website-template/",
+  "homepage": "https://kushalsharma0702.github.io/Hackathon-website-template/",
   "name": "hackathon-website-template",
   "version": "0.1.0",
   "private": true,
@@ -49,6 +49,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "format": "prettier --write \"src/**/*.{js,jsx}\""
+    
   },
   "eslintConfig": {
     "extends": [
